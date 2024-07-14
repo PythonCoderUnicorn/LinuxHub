@@ -3,3 +3,20 @@
 
 my repo for Linux scripts and files
 
+
+### distro based aliases
+
+- `~/.bashrc`
+
+OpenSUSE 
+```
+alias zyp='sudo zypper install';
+alias zyps='zypper search';
+```
+
+Arch 
+```
+alias pac='sudo pacman -Syu';
+alias pacs='pacman search';
+```
+
