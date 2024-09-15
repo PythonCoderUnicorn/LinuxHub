@@ -18,6 +18,7 @@ https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c
 https://christitus.com/index.xml
 https://brave.com/latest/index.xml
 https://www.malwarebytes.com/blog/feed/index.xml
+https://feeds.fortinet.com/fortinet/blog/threat-research&x=1
 
 
 
