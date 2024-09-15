@@ -1,0 +1,74 @@
+
+# A
+
+# https://github.com/sepandhaghighi/art
+art
+# https://argon2-cffi.readthedocs.io/en/stable/
+argon2-cffi
+
+# B
+# bcrypt==4.2.0
+bcrypt
+
+
+# D
+datetime
+
+
+# G
+glob
+# https://docs.python.org/3/library/getpass.html
+getpass
+
+# H
+
+# https://docs.python.org/3/library/hashlib.html
+hashlib
+
+# M
+math 
+matplotlib
+
+# N
+numpy
+nltk 
+nltk.download([ "stopwords","vader_lexicon","punkt",]) 
+
+
+# P
+pprint
+pypdf
+pandas
+playsound
+# https://psutil.readthedocs.io/en/latest/
+psutil
+
+
+# R
+random
+request
+# https://rich.readthedocs.io/en/stable/introduction.html
+rich 
+
+# S
+seaborn
+streamlit 
+string
+stats
+scikit-learn
+# https://segno.readthedocs.io/en/latest/    
+segno 
+
+
+# T
+time 
+termcolor
+# https://tqdm.github.io/#tqdm
+tqdm 
+
+# W
+WordCloud
+
+
+#webbrowser
+
