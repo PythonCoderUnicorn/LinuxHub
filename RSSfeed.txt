@@ -19,6 +19,7 @@ https://christitus.com/index.xml
 https://brave.com/latest/index.xml
 https://www.malwarebytes.com/blog/feed/index.xml
 https://feeds.fortinet.com/fortinet/blog/threat-research&x=1
+https://www.nist.gov/news-events/cybersecurity/rss.xml
 
 
 
